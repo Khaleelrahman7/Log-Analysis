@@ -86,12 +86,6 @@ Refer to the file generated for detailed results.
 
 Contributions are welcome! Feel free to submit issues or pull requests to enhance this tool.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Author
-
-Developed by [Your Name](https://github.com/your-username).
 
 
